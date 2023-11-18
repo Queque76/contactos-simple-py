@@ -1,0 +1,14 @@
+{
+    "DEFAULT": {
+        "SERVER_HOST": "192.168.56.1",
+        "SERVER_PORT": 55555
+    },
+    "TESTING": {
+        "SERVER_HOST": "server_host_testing",
+        "SERVER_PORT": 55555
+    },
+    "PRODUCTION": {
+        "SERVER_HOST": "server_host_production",
+        "SERVER_PORT": 55555
+    }
+}

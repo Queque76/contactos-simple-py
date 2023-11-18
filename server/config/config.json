@@ -1,0 +1,23 @@
+{
+    "DEFAULT": {
+        "SERVER_HOST": "192.168.56.1",
+        "SERVER_PORT": 55555,
+        "DB_PATH": "server\\db\\addressBookDB.db",
+        "DB_USER": "db_user_default",
+        "DB_PASSWORD" : "db_password_default"
+    },
+    "TESTING": {
+        "SERVER_HOST": "server_host_testing",
+        "SERVER_PORT": 55555,
+        "DB_PATH": "db_name_testing",
+        "DB_USER": "db_user_testing",
+        "DB_PASSWORD": "db_password_testing"
+    },
+    "PRODUCTION": {
+        "SERVER_HOST": "server_host_production",
+        "SERVER_PORT": 55555,
+        "DB_PATH": "db_name_production",
+        "DB_USER": "db_user_production",
+        "DB_PASSWORD ": "db_password_production"
+    }
+}
